@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Pandey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="coding" width="400px" src="https://media2.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b7611ab6536bf593db769097983f58ecd08c7198fbb9d&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashup198&label=Profile%20views&color=0e75b6&style=flat" alt="rashup198" /> </p>
 
