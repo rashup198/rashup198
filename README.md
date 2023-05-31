@@ -27,7 +27,4 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashup198&layout=compact)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashup198&show_icons=true&locale=en" alt="rashup198" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashup198&" alt="rashup198" /></p>
