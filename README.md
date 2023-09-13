@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rashupandey3" target="blank"><img src="https://img.shields.io/twitter/follow/rashupandey3?logo=twitter&style=for-the-badge" alt="rashupandey3" /></a> </p>
 
-- 🔭 I’m currently working on [GitHub-Profile-finder.com](https://github-profile-finder12.netlify.app/)
-
 - 🌱 I’m currently learning **Full stack web development**
 
 - 📫 How to reach me **rashup198@gmail.com**
